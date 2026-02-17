@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723729854805",
+    "project_id": "bilimbetask",
+    "storage_bucket": "bilimbetask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723729854805:android:7fd1d475156a148ab5ffdc",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.BilimbeTask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUFwm3m1KdRkUIXY_PewCOj-H664NvHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
